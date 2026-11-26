@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+myenv/
+env-fastapi-raster/
+
+# Byte-compiled / binary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Secrets
+.env
+
+# File sementara
+temp_files/
+dummy.txt
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite3
+
+# Vercel
+.vercel

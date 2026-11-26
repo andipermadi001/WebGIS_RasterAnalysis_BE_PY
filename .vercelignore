@@ -1,0 +1,11 @@
+env-fastapi-raster
+venv
+.venv
+temp_files
+container-image
+scripts
+cara.txt
+backupMain.txt
+.env
+__pycache__
+*.pyc

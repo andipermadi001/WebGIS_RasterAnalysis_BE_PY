@@ -1,0 +1,12 @@
+#setup projek
+ source env-fastapi-raster/Scripts/activate  --> masuk env projek
+ pip list --> list package env projek jika sudah activate
+
+
+
+# cara jalanin server di lokal
+uvicorn main:app --reload
+
+
+
+        
